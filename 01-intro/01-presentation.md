@@ -14,6 +14,7 @@
 * disposer en sortant d'un CV *recrutable* (avec un projet github)
 * avancer le plus koin possible sur HTML
 * comprendre et appréhender XP
+* Maitriser les principes pour DevOps ceci est très important chez un un développeur
 
 
 [suite](./02-ingenieur.md)
